@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
-import plotly_express as px
+import plotly.express as px
 
 # Configuración de página amplia
 st.set_page_config(page_title="Gestor de Precios Pyme", layout="wide")
